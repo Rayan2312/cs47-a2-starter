@@ -3,6 +3,7 @@ export default Themes = {
   light: {
     bg: palette.lightGray,
     bgSecondary: palette.white,
+    bgNavBar: palette.black,
     text: palette.black,
     textSecondary: palette.white,
     statusBar: 'dark-content',
@@ -17,6 +18,7 @@ export default Themes = {
   dark: {
     bg: palette.lightBlack,
     bgSecondary: palette.lighterBlack,
+    bgNavBar: palette.white,
     text: palette.white,
     textSecondary: palette.black,
     statusBar: 'light-content',
